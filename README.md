@@ -1,6 +1,6 @@
 <h1 align="center"> Personal Portfolio Website</h1>
 
-<h2 align="center"> Bijoy Kar</h2>
+<h2 align="center"> Pranay Gupta</h2>
 
 <p align="center">
 Welcome to the README for your Portfolio Website Project. This document will guide you through the setup, customization, and deployment of your personal portfolio website.
